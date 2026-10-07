@@ -1,6 +1,12 @@
 # Midterm
 
-This section is for the first half of the course: in-class code, lab tasks, assignments, and revision material.
+Coursework from the first half of Advanced Web Technology, including class examples, labs, assignments, and exam preparation.
+
+## Current Work
+
+| Item | Topics | Source |
+| --- | --- | --- |
+| Lab 02 | TypeScript fundamentals, Promises, and `async`/`await` | [View Lab 02](code/02_lab/README.md) |
 
 ## Organize Materials
 
@@ -12,6 +18,6 @@ midterm/
   review/        Notes, practice questions, and exam preparation
 ```
 
-Use names such as `week-02-css-layout/`, `lab-01-responsive-page/`, and `assignment-01/`. Include each lab or assignment's goal and requirements, plus a README with setup and run instructions whenever they are not self-evident.
+New material should use descriptive names such as `week-02-css-layout/`, `lab-01-responsive-page/`, or `assignment-01/`. Each substantial exercise should include its objective and any required setup or run instructions.
 
-No syllabus or lab list has been added yet; create topics here as they are confirmed in class.
+This index will be updated as new topics and assessments are introduced during the semester.
