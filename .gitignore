@@ -1,0 +1,19 @@
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+.next/
+.nuxt/
+.output/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.DS_Store
+.vscode/
+.idea/
+*.swp

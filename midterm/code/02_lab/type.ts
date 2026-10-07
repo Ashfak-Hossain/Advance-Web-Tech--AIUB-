@@ -1,0 +1,1 @@
+let studentName: string = 'Ashfak';
